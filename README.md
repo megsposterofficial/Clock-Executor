@@ -6,7 +6,7 @@
 
 
 
-To use it, go to the Releases tab, ```https://github.com/megsposterofficial/Roblox-Exploit-Kit-Vega/releases```.
+To use it, go to the Releases tab, ```https://github.com/megsposterofficial/Clock-Executor/releases/tag/v1.0```.
 
 
 
@@ -25,6 +25,7 @@ This Executor is powered by Xeno API.
 ##### Download the Project via github, then open up the ClockEXEC.sln file.
 
 ##### Then find the Build button and you will get the clean polished Clock Executor.
+
 
 
 
