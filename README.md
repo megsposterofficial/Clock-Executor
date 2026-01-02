@@ -18,4 +18,13 @@ This Executor is powered by Xeno API.
 
 
 
+# Build Options
+
+##### To build this project you must have Visual Studio 2022 or later to build.
+
+##### Download the Project via github, then open up the ClockEXEC.sln file.
+
+##### Then find the Build button and you will get the clean polished Clock Executor.
+
+
 
