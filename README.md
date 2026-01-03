@@ -6,7 +6,7 @@
 
 
 
-To use it, go to the Releases tab, ```https://github.com/megsposterofficial/Clock-Executor/releases/tag/v1.0```.
+To use it, go to the Releases tab, ```https://github.com/megsposterofficial/Clock-Executor/releases/```.
 
 
 
@@ -15,6 +15,7 @@ Download the any of the versions that are listed, **`Recommended to get the late
 
 
 This Executor is powered by Xeno API.
+
 
 
 
