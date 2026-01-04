@@ -16,6 +16,11 @@ Download the any of the versions that are listed, **`Recommended to get the late
 
 This Executor is powered by Xeno API.
 
+# Terms of Use
+
+##### I "Megs Poster" am not responsible for any loss of Roblox Accounts.
+
+##### Use ClockWork Executor at your **OWN** Risk.
 
 
 
