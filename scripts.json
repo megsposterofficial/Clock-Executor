@@ -6,5 +6,9 @@
   {
     "name": "The Rake Remastered Main",
     "url": "https://raw.githubusercontent.com/Djskinybinn/The-Rake-Remastered-Script-Keyless/refs/heads/main/ObfuscatedRakeScript.lua"
+  },
+  {
+    "name": "AtlasBSS"
+    "url": "https://raw.githubusercontent.com/Chris8889/atlasbss/main/script.lua"
   }
 ]
