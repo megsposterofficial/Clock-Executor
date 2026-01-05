@@ -6,7 +6,7 @@
 
 
 
-To use it, go to the Releases tab, ```https://github.com/megsposterofficial/Clock-Executor/releases/```.
+To use it, go to the Releases tab, https://github.com/megsposterofficial/Clock-Executor/releases
 
 
 
@@ -26,6 +26,7 @@ This Executor is powered by Xeno API.
 ##### I "Megs Poster" am not responsible for any loss of Roblox Accounts.
 
 ##### Use ClockWork Executor at your **OWN** Risk.
+
 
 
 
