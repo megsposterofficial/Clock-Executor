@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Infinite Yield",
+    "url": "https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua"
+  },
+  {
+    "name": "The Rake Remastered Main",
+    "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Djskinybinn/The-Rake-Remastered-Script-Keyless/refs/heads/main/ObfuscatedRakeScript.lua\", true))()"
+  }
+]
