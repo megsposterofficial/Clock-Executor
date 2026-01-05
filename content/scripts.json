@@ -1,10 +1,10 @@
 [
   {
-    "name": "Infinite Yield (Universal)",
+    "name": "Infinite Yield",
     "url": "https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua"
   },
   {
-    "name": "The Rake Remastered Script (Rake Remastered)",
+    "name": "The Rake Remastered Script",
     "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Djskinybinn/The-Rake-Remastered-Script-Keyless/refs/heads/main/ObfuscatedRakeScript.lua\", true))()"
   },
   {
@@ -20,3 +20,4 @@
     "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dy1zn4t/NatHub/refs/heads/main/loader\"))()"
   }
 ]
+
