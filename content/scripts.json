@@ -20,10 +20,11 @@
     "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/dy1zn4t/NatHub/refs/heads/main/loader\"))()"
   },
   {
-    "name": "Mad City Chapter 1 VMC Hub"
+    "name": "Mad City Chapter 1 VMC Hub",
     "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/inkdupe/scripts/refs/heads/main/VMChub.lua\"))()"
   }
 ]
+
 
 
 
