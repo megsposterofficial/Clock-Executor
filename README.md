@@ -2,7 +2,7 @@
 
 
 
-##### ClockWork Executor, is a Roblox Exploit Executor that allows for players to execute scripts an use them in game.
+##### ClockWork Executor, is a Roblox Executor that allows for players to execute scripts an use them in game.
 
 
 
@@ -22,6 +22,7 @@ This Executor is powered by Xeno API.
 ##### I "Megs Poster" am not responsible for any loss of Roblox Accounts.
 
 ##### Use ClockWork Executor at your **OWN** Risk.
+
 
 
 
