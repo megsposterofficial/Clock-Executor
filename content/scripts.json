@@ -22,8 +22,13 @@
   {
     "name": "Mad City Chapter 1 VMC Hub",
     "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/inkdupe/scripts/refs/heads/main/VMChub.lua\"))()"
+  },
+  {
+    "name": "Decompile ANY Game",
+    "url": "https://raw.githubusercontent.com/megsposterofficial/Clock-Executor/refs/heads/main/content/rawscripts/decompilegame.lua"
   }
 ]
+
 
 
 
